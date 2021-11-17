@@ -3,18 +3,19 @@
 All DLP release notes to be detailed here.
 
 👍New Features
-<hr><br>
+<hr>
 Features added in this release
 <li/>
 <li/>
 <br>
 ✔Fixed Issues
-<hr><br>
+<hr>
 <li/>
 <li/>
 <br>
 👌Improvements
 <hr>
+<li/>
 <li/>
 <br>
 
