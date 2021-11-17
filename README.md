@@ -3,7 +3,7 @@
 All DLP release notes to be detailed here.
 
 👍<b>New Features</b>
-<li>
+<li> Feature 1 
   <li>Overview: A brief description of Feature 1</li>
   <li>Features Summary: A brief summary of the requirement, with a mention of the requirements document, jira etc.</li>
   <li>What was done: The changes mad  </li>
@@ -12,7 +12,7 @@ All DLP release notes to be detailed here.
 <br>
 
 ✔<b>Fixed Issues</b>
-<li>
+<li> Issue Fix #1
   <li>Overview: A brief description of the issue that was addressed (can also provide reference to tickets if any)</li>
   <li>Issue Summary: For each issue addressed, a short description of the bug or enhancement; for a bug, briefly describe the steps to reproduce.</li>
   <li>Resolution: The modifications made to address the enhancement or bug.</li>
@@ -21,7 +21,7 @@ All DLP release notes to be detailed here.
 <br>
 
 👌<b>Improvements</b>
-<li>
+<li> Improvement #1
   <li>Overview: A brief description of the improvement done (not a bug or a new feature)</li>
   <li>Features Summary: A brief summary of the requirement, with a mention of the requirements document, jira etc.</li>
   <li>What was done: The changes mad  </li>
