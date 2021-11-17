@@ -4,10 +4,10 @@ All DLP release notes to be detailed here.
 
 👍<b>New Features</b>
 <li> Feature 1 
-  <li>Overview: A brief description of Feature 1</li>
-  <li>Features Summary: A brief summary of the requirement, with a mention of the requirements document, jira etc.</li>
-  <li>What was done: The changes mad  </li>
-  <li>Impacts: Note any actions that users or administrators need to take to support this new release. These could include configuration changes, prerequisites, hardware, or more.</li>
+  <ul>Overview: A brief description of Feature 1</ul>
+  <ul>Features Summary: A brief summary of the requirement, with a mention of the requirements document, jira etc.</ul>
+  <ul>What was done: The changes mad  </ul>
+  <ul>Impacts: Note any actions that users or administrators need to take to support this new release. These could include configuration changes, prerequisites, hardware, or more.</ul>
 </li>
 <br>
 
