@@ -3,6 +3,7 @@
 All DLP release notes to be detailed here.
 
 👍<h3>New Features</h3>
+👍
 Features added in this release
 <li/>
 <li/>
