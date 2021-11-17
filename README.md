@@ -1,19 +1,18 @@
 # DLP-Release-Notes
-
+<hr>
 All DLP release notes to be detailed here.
 
 👍New Features
-<hr>
+
 Features added in this release
 <li/>
 <li/>
 <br>
-✔Fixed Issues
-<hr>
+✔<h3>Fixed Issues<h3>
 <li/>
 <li/>
 <br>
-👌Improvements
+  👌<h3>Improvements</h3>
 <hr>
 <li/>
 <li/>
