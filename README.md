@@ -3,10 +3,10 @@
 All DLP release notes to be detailed here.
 
 👍New Features
-<br>
+<hr><br>
 ✔Fixed Issues
-<br>
+<hr><br>
 👌Improvements
-
+<hr>
 
 
